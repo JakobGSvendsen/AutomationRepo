@@ -1,3 +1,3 @@
-workflow demoscript {
+﻿workflow demoscript {
  write-output "hello!"
 }
