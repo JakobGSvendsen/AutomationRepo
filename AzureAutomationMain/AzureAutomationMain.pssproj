@@ -28,6 +28,7 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="DemoScript.ps1" />
     <Compile Include="Script.ps1" />
     <Compile Include="Write-Hello.ps1" />
   </ItemGroup>
