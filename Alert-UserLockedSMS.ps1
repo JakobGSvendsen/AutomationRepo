@@ -21,5 +21,3 @@ Foreach ($item in $SearchResultsValue)
 	
 	Send-TwilioSMS -Connection $COnnection -from $from -to $to -Message "Your account has been locked. Please reply UNLOCK to unlock your account"
 }
-
-
